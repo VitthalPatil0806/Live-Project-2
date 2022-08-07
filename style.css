@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+}
+
+/* ------------------------------ */
+/* ---------- NAVBAR ------------ */
+/* ------------------------------ */
+body{
+  background-image: url(./assets/pexels.png);
+  
+}
+.container{
+  background-color: #1b3263;
+  opacity: 0.8;
+  height: 900px;
+}
+img[src="./assets/white-logo.png"]{
+  margin-top: 2%;
+  margin-left: 2%;
+}
+.list{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  max-width: 45%;
+  margin-left: 25%;
+  list-style-type: none;
+  color: #ece10e;
+  margin-top: -4%;
+  font-size: x-large;
+}
+
+.button-small{
+  margin-left: 75%;
+  width: 8%;
+  height: 40px;
+  background-color: #e73f3f;
+  color: #ffffff;
+  border-style: none;
+  margin-top: -20px;
+  font-size: xx-large;
+}
+/* ------------------------------ */
+/* ---------- HERO ------------ */
+/* ------------------------------ */
+.hero{
+  margin-top: 10%;
+  margin-left: 15%;
+}
+.hero-heading{
+  font-size: 750%;
+  font-family: "Red Rose", cursive;
+  color: #ece10e;
+}
+.button-large{
+  width: 25%;
+  height: 70px;
+  margin-left: 25%;
+  margin-top: 2%;
+  background-color: #e73f3f;
+  color: #ffffff;
+  border-style: none;
+  font-size: xx-large;
+}
+img[src="./assets/scrool.png"]{
+  margin-left: 80%;
+  margin-top: -140px;
+}
