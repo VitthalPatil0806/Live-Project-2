@@ -2,7 +2,7 @@
 #### By Vitthal Patil <br/>
 [Click On It For Visit My Website](http://127.0.0.1:5501/index.html) <br/>
 ### Below Are The ScreenShot Of My Second Live Project <br/>
-![ScreenShot](Live ss 2.png) <br/>
+![ScreenShot](Live%20ss%202.png) <br/>
 # What I Learned From This Project? <br/>
 * I Learned How Set Backround Image <br/>
 * How Write Over The Image That I'm Learned Here <br/>
